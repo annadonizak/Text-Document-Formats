@@ -1,0 +1,11 @@
+{
+    "ticketNumber": "AB123456689",
+    "passengerName": "Annie White",
+    "departureStation": "New York Penn Station",
+    "destinationStation": "Washington Union Station",
+    "departureDate": "2024-08-15",
+    "departureTime": "11:30 AM",
+    "ticketType": "First Class",
+    "price": 98.50,
+    "isRoundTrip": false
+}

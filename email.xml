@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<email>
+    <sender>annadon@example.com</sender>
+    <recipient>vkuropiatkina@example.com</recipient>
+    <subject>Meeting Reminder</subject>
+    <body>
+        <message>Don't forget about our meeting tomorrow at 10 AM.</message>
+    </body>
+</email>

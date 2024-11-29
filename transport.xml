@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<transport>
+    <vehicle type="Car" brand="Toyota">
+        <model>Corolla</model>
+        <year>2021</year>
+        <fuel>Petrol</fuel>
+    </vehicle>
+    <vehicle type="Bicycle" brand="Giant">
+        <model>Escape 3</model>
+        <year>2020</year>
+        <gear>21-speed</gear>
+    </vehicle>
+    <vehicle type="Train" brand="Siemens">
+        <model>Velaro</model>
+        <year>2018</year>
+        <speed>300 km/h</speed>
+    </vehicle>
+</transport>

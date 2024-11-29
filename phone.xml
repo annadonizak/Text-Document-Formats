@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<smartphones>
+    <smartphone brand="Apple" model="iPhone 13">
+        <price currency="USD">999</price>
+        <features>
+            <feature>5G</feature>
+            <feature>OLED Display</feature>
+        </features>
+    </smartphone>
+    <smartphone brand="Samsung" model="Galaxy S21">
+        <price currency="USD">799</price>
+        <features>
+            <feature>5G</feature>
+            <feature>AMOLED Display</feature>
+        </features>
+    </smartphone>
+    <smartphone brand="YourBrand" model="YourModel">
+        <price currency="USD">YourPrice</price>
+        <features>
+            <feature>YourFeature1</feature>
+            <feature>YourFeature2</feature>
+        </features>
+    </smartphone>
+</smartphones>
